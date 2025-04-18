@@ -1,4 +1,4 @@
-# Kraken Mini Trading Bot
+# Kraken Medium Trading Bot
 
 ![Trading Bot Status](https://img.shields.io/badge/status-active-green)
 ![Python Version](https://img.shields.io/badge/python-3.7%2B-blue)
